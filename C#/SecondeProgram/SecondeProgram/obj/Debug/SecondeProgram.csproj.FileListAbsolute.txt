@@ -1,0 +1,16 @@
+C:\Users\Faisal Mahmud Sojib\Desktop\SecondeProgram\SecondeProgram\bin\Debug\SecondeProgram.exe.config
+C:\Users\Faisal Mahmud Sojib\Desktop\SecondeProgram\SecondeProgram\bin\Debug\SecondeProgram.exe
+C:\Users\Faisal Mahmud Sojib\Desktop\SecondeProgram\SecondeProgram\bin\Debug\SecondeProgram.pdb
+C:\Users\Faisal Mahmud Sojib\Desktop\SecondeProgram\SecondeProgram\obj\Debug\SecondeProgram.csproj.AssemblyReference.cache
+C:\Users\Faisal Mahmud Sojib\Desktop\SecondeProgram\SecondeProgram\obj\Debug\SecondeProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faisal Mahmud Sojib\Desktop\SecondeProgram\SecondeProgram\obj\Debug\SecondeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Faisal Mahmud Sojib\Desktop\SecondeProgram\SecondeProgram\obj\Debug\SecondeProgram.exe
+C:\Users\Faisal Mahmud Sojib\Desktop\SecondeProgram\SecondeProgram\obj\Debug\SecondeProgram.pdb
+D:\My Project\C#\SecondeProgram\SecondeProgram\bin\Debug\SecondeProgram.exe.config
+D:\My Project\C#\SecondeProgram\SecondeProgram\bin\Debug\SecondeProgram.exe
+D:\My Project\C#\SecondeProgram\SecondeProgram\bin\Debug\SecondeProgram.pdb
+D:\My Project\C#\SecondeProgram\SecondeProgram\obj\Debug\SecondeProgram.csproj.AssemblyReference.cache
+D:\My Project\C#\SecondeProgram\SecondeProgram\obj\Debug\SecondeProgram.csproj.SuggestedBindingRedirects.cache
+D:\My Project\C#\SecondeProgram\SecondeProgram\obj\Debug\SecondeProgram.csproj.CoreCompileInputs.cache
+D:\My Project\C#\SecondeProgram\SecondeProgram\obj\Debug\SecondeProgram.exe
+D:\My Project\C#\SecondeProgram\SecondeProgram\obj\Debug\SecondeProgram.pdb
