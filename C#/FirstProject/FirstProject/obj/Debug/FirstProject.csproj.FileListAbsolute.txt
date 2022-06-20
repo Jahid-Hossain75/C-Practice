@@ -1,0 +1,11 @@
+C:\Users\Faisal Mahmud Sojib\Desktop\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\Faisal Mahmud Sojib\Desktop\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\Faisal Mahmud Sojib\Desktop\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\Faisal Mahmud Sojib\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+C:\Users\Faisal Mahmud Sojib\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faisal Mahmud Sojib\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.Form1.resources
+C:\Users\Faisal Mahmud Sojib\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.Properties.Resources.resources
+C:\Users\Faisal Mahmud Sojib\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.GenerateResource.cache
+C:\Users\Faisal Mahmud Sojib\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Faisal Mahmud Sojib\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\Faisal Mahmud Sojib\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
